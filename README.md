@@ -1,5 +1,5 @@
 本次课程设计使用若依框架进行开发
-<h4 align="center">基于SpringBoot+Vue前后端分离的Java快速开发框架</h4>
+<h4 align="center">基于SpringBoot+Vue前后端分离的Java快速开发框架  v3.8.5 </h4>
 
 
 ## 平台简介
